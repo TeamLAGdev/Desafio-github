@@ -1,0 +1,10 @@
+link para download do git :https://git-scm.com/downloads
+o git Bash é um terminal extendido para otimizar o uso do git
+Git commit:O que faz o comando git commit?
+Este comando é como definir um ponto de verificação no processo de desenvolvimento
+Git push:git push é mais usado para publicar modificações locais a um repositório central.
+Git status:Verifica quais os estados que os arquivos estão. Se existe algum arquivo modificado, adiciona ou removido. 
+Git rm :não removerá um arquivo apenas do seu diretório de trabalho.
+Para criar um novo repositório, você vai usar o comando Git init.
+Cria o diretório
+mkdir git-teste
